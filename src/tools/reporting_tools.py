@@ -1,0 +1,1 @@
+# El contenido completo del archivo reporting_tools.py que habíamos actualizado antes
